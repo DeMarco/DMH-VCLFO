@@ -1,0 +1,3 @@
+[submodule "DMH_VCLFO_PANEL/Libraries/SynthStuff"]
+	path = DMH_VCLFO_PANEL/Libraries/SynthStuff
+	url = https://github.com/DeMarco/KiCad-Lib-SynthStuff.git
