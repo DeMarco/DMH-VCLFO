@@ -2834,7 +2834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PLL"
+		(property "Value" "Rng"
 			(at 161.29 50.8 0)
 			(effects
 				(font
@@ -4831,7 +4831,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PLL"
+		(property "Value" "Rng"
 			(at 161.29 101.6 0)
 			(effects
 				(font
@@ -5057,7 +5057,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PLL"
+		(property "Value" "Rng"
 			(at 161.29 152.4 0)
 			(effects
 				(font
