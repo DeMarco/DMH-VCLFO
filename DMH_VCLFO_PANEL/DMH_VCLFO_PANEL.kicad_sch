@@ -3320,7 +3320,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED A"
+		(property "Value" "LED C R"
 			(at 34.29 140.9699 0)
 			(effects
 				(font
@@ -3329,7 +3329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_R"
 			(at 31.75 139.7 0)
 			(effects
 				(font
@@ -3375,6 +3375,78 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
+		(at 50.8 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "777384fc-940d-4382-8ccd-b64282e109a5")
+		(property "Reference" "H38"
+			(at 53.34 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED C Y"
+			(at 53.34 140.9699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_Y"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
 		(at 31.75 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3392,7 +3464,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED A"
+		(property "Value" "LED A R"
 			(at 34.29 39.3699 0)
 			(effects
 				(font
@@ -3401,7 +3473,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_R"
 			(at 31.75 38.1 0)
 			(effects
 				(font
@@ -3959,7 +4031,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "LED A"
+		(property "Value" "LED B R"
 			(at 34.29 90.1699 0)
 			(effects
 				(font
@@ -3968,7 +4040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:MountingHole_LED_3mm"
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_R"
 			(at 31.75 88.9 0)
 			(effects
 				(font
@@ -4077,6 +4149,78 @@
 			(project "DMH_VCLFO_PANEL"
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 50.8 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4e3b6f7-d473-4282-8123-393b6fd81f22")
+		(property "Reference" "H36"
+			(at 53.34 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED A Y"
+			(at 53.34 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_Y"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H36")
 					(unit 1)
 				)
 			)
@@ -5033,6 +5177,78 @@
 			(project ""
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 50.8 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f7a6177d-1be6-4127-9416-666285df2988")
+		(property "Reference" "H37"
+			(at 53.34 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "LED B Y"
+			(at 53.34 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:MountingHole_LED_3mm_Y"
+			(at 50.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 50.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H37")
 					(unit 1)
 				)
 			)
