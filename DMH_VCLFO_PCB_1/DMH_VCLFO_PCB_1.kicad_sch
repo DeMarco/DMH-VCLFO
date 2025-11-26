@@ -11,7 +11,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 127 88.9)
+		(at 223.52 82.55)
 		(size 20.32 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27,7 +27,7 @@
 		)
 		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
 		(property "Sheetname" "Power"
-			(at 127 88.1884 0)
+			(at 223.52 81.8384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 127 114.8846 0)
+			(at 223.52 108.5346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,7 +46,7 @@
 			)
 		)
 		(pin "Bus Gate" output
-			(at 127 96.52 180)
+			(at 223.52 90.17 180)
 			(uuid "35434339-bc2b-4868-9a18-95483283b276")
 			(effects
 				(font
@@ -56,7 +56,7 @@
 			)
 		)
 		(pin "Bus CV" output
-			(at 127 106.68 180)
+			(at 223.52 100.33 180)
 			(uuid "0197176f-d754-4695-b74f-89d14faa0aea")
 			(effects
 				(font
@@ -66,7 +66,7 @@
 			)
 		)
 		(instances
-			(project "DMH-Kosmo-10cm-PCB"
+			(project "DMH_VCLFO_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "4")
 				)
@@ -74,7 +74,7 @@
 		)
 	)
 	(sheet
-		(at 63.5 76.2)
+		(at 63.5 38.1)
 		(size 50.8 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -90,7 +90,7 @@
 		)
 		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
 		(property "Sheetname" "Core Circuit"
-			(at 63.5 75.4884 0)
+			(at 63.5 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -99,7 +99,7 @@
 			)
 		)
 		(property "Sheetfile" "Core_Circuit.kicad_sch"
-			(at 63.5 127.5846 0)
+			(at 63.5 89.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -109,7 +109,7 @@
 			)
 		)
 		(instances
-			(project "DMH-Kosmo-10cm-PCB"
+			(project "DMH_VCLFO_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
@@ -117,7 +117,7 @@
 		)
 	)
 	(sheet
-		(at 25.4 76.2)
+		(at 25.4 38.1)
 		(size 25.4 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -133,7 +133,7 @@
 		)
 		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
 		(property "Sheetname" "Inputs and Outputs"
-			(at 25.4 75.4884 0)
+			(at 25.4 37.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142,7 +142,7 @@
 			)
 		)
 		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
-			(at 25.4 127.5846 0)
+			(at 25.4 89.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -152,7 +152,7 @@
 			)
 		)
 		(instances
-			(project "DMH-Kosmo-10cm-PCB"
+			(project "DMH_VCLFO_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
 				)
