@@ -3779,6 +3779,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 38.1) (xy 271.78 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9040690a-490e-4693-801d-284c334e4335")
+	)
+	(wire
+		(pts
 			(xy 97.79 38.1) (xy 116.84 38.1)
 		)
 		(stroke
@@ -6769,6 +6779,88 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
+		(at 276.86 38.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7349b2c9-3bc1-4101-b5cf-55a3af61526b")
+		(property "Reference" "J3"
+			(at 276.86 31.496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS_Jack_6.35mm_Sw"
+			(at 277.495 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+			(at 276.86 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Out A Saw"
+			(at 276.86 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "e45a661f-3795-45b5-9b5a-6b1b197e1e89")
+		)
+		(pin "T"
+			(uuid "c1f8e6f2-e985-4ae7-87e8-0793f5e5ee99")
+		)
+		(pin "TN"
+			(uuid "73e0ac67-8031-41ec-b1e1-1920d892863a")
+		)
+		(instances
+			(project "DMH_VCLFO_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 80.01 114.3 0)
 		(unit 1)
@@ -7365,46 +7457,46 @@
 			)
 		)
 		(pin "3"
-			(uuid "7577aa5b-4e51-43f0-b737-5dd4c1dcc645")
+			(uuid "7577aa5b-4e51-43f0-b737-5dd4c1dcc646")
 		)
 		(pin "9"
-			(uuid "b6b5ee29-da60-4048-8f40-e766f87b1060")
+			(uuid "b6b5ee29-da60-4048-8f40-e766f87b1061")
 		)
 		(pin "4"
-			(uuid "7c2f3f54-c681-4956-a532-fb794999a3ec")
+			(uuid "7c2f3f54-c681-4956-a532-fb794999a3ed")
 		)
 		(pin "5"
-			(uuid "082aa8d4-2b22-4b40-975a-34c0659b4bee")
+			(uuid "082aa8d4-2b22-4b40-975a-34c0659b4bef")
 		)
 		(pin "7"
-			(uuid "0803095c-3b1d-45d4-95ad-e37edf0bdcc3")
+			(uuid "0803095c-3b1d-45d4-95ad-e37edf0bdcc4")
 		)
 		(pin "11"
-			(uuid "3e431ba0-dfcd-4de3-92ba-514079eaff6a")
+			(uuid "3e431ba0-dfcd-4de3-92ba-514079eaff6b")
 		)
 		(pin "12"
-			(uuid "dd668809-6a4e-4dd7-8817-547d4f89ce63")
+			(uuid "dd668809-6a4e-4dd7-8817-547d4f89ce64")
 		)
 		(pin "8"
-			(uuid "8ea40c30-c5ab-440b-819d-c29f8f079e1d")
+			(uuid "8ea40c30-c5ab-440b-819d-c29f8f079e1e")
 		)
 		(pin "14"
-			(uuid "2037fa52-ff66-4633-80e2-c95edd10a32f")
+			(uuid "2037fa52-ff66-4633-80e2-c95edd10a330")
 		)
 		(pin "1"
-			(uuid "5d2331b3-4400-440a-95fc-2ab9dc9a7c56")
+			(uuid "5d2331b3-4400-440a-95fc-2ab9dc9a7c57")
 		)
 		(pin "6"
-			(uuid "c66a7c83-8395-4326-8768-6b9b78295b46")
+			(uuid "c66a7c83-8395-4326-8768-6b9b78295b47")
 		)
 		(pin "13"
-			(uuid "79d9276a-fc5f-4223-9734-dccc246fa628")
+			(uuid "79d9276a-fc5f-4223-9734-dccc246fa629")
 		)
 		(pin "2"
-			(uuid "7fe7208d-70e3-49c9-8416-4f20eadbcc1b")
+			(uuid "7fe7208d-70e3-49c9-8416-4f20eadbcc1c")
 		)
 		(pin "10"
-			(uuid "fde99185-6566-4bc3-8fc7-ed5144a94b3c")
+			(uuid "fde99185-6566-4bc3-8fc7-ed5144a94b3d")
 		)
 		(instances
 			(project ""
@@ -8131,7 +8223,7 @@
 			)
 		)
 		(pin "14"
-			(uuid "825ae242-929a-403d-8af9-00e3152a3481")
+			(uuid "825ae242-929a-403d-8af9-00e3152a3482")
 		)
 		(pin "7"
 			(uuid "a8a4fab1-70ea-485a-8fc1-3883f8ea71b7")
@@ -8140,37 +8232,37 @@
 			(uuid "cfe287cc-61bb-4fe2-a040-d68f9be8eb8f")
 		)
 		(pin "9"
-			(uuid "7fe538f8-cf1a-422b-a223-110d307b4e7e")
+			(uuid "7fe538f8-cf1a-422b-a223-110d307b4e7f")
 		)
 		(pin "2"
-			(uuid "5e2716ed-36a8-4ba8-8f14-076de5be8d79")
+			(uuid "5e2716ed-36a8-4ba8-8f14-076de5be8d7a")
 		)
 		(pin "13"
-			(uuid "a3722d93-20ef-4539-95aa-9be4bc885904")
+			(uuid "a3722d93-20ef-4539-95aa-9be4bc885905")
 		)
 		(pin "11"
-			(uuid "f5c92cf9-1bf8-4543-aca3-2a41fa2ff5ee")
+			(uuid "f5c92cf9-1bf8-4543-aca3-2a41fa2ff5ef")
 		)
 		(pin "1"
-			(uuid "33f091bc-94e2-4755-a48a-aef99babf5dc")
+			(uuid "33f091bc-94e2-4755-a48a-aef99babf5dd")
 		)
 		(pin "3"
-			(uuid "b4057712-d7ed-4141-a416-efa23a19004e")
+			(uuid "b4057712-d7ed-4141-a416-efa23a19004f")
 		)
 		(pin "10"
-			(uuid "a98a8886-0ce0-47b2-8f27-d6e46af28b92")
+			(uuid "a98a8886-0ce0-47b2-8f27-d6e46af28b93")
 		)
 		(pin "5"
 			(uuid "975bcf55-950a-404b-8150-7985e48e5b20")
 		)
 		(pin "4"
-			(uuid "83b09123-71f9-40e8-87f7-3d95ed211f1a")
+			(uuid "83b09123-71f9-40e8-87f7-3d95ed211f1b")
 		)
 		(pin "12"
-			(uuid "b06216a7-c11d-4edd-b51d-279314ead808")
+			(uuid "b06216a7-c11d-4edd-b51d-279314ead809")
 		)
 		(pin "8"
-			(uuid "c251c03b-104c-4717-9fb9-83e08710c3d2")
+			(uuid "c251c03b-104c-4717-9fb9-83e08710c3d3")
 		)
 		(instances
 			(project "DMH_VCLFO_PCB_1"
