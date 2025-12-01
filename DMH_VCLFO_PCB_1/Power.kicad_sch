@@ -1785,6 +1785,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "1mA"
+		(exclude_from_sim no)
+		(at 63.754 185.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cbab017d-07d5-4d57-8199-c3837a6f448c")
+	)
+	(text "1mA"
+		(exclude_from_sim no)
+		(at 38.1 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d10f0407-a7df-4826-ac03-37faaf7f2551")
+	)
 	(junction
 		(at 119.38 175.26)
 		(diameter 0)
@@ -2924,7 +2944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "6k8"
 			(at 29.21 168.9099 0)
 			(effects
 				(font
@@ -3555,7 +3575,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "6k8"
 			(at 54.61 168.9099 0)
 			(effects
 				(font
