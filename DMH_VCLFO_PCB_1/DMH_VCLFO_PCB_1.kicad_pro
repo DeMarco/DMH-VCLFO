@@ -715,6 +715,10 @@
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
+    ],
+    [
+      "b7535c68-aff0-486d-90c3-e36a997c8490",
+      "Breadboard Layout"
     ]
   ],
   "text_variables": {}

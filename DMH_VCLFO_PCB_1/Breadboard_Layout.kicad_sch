@@ -1,0 +1,129 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2c552e7e-eeaf-47d1-9dae-4bbf96627046")
+	(paper "A4")
+	(title_block
+		(company "DMH Instruments")
+		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+	)
+	(lib_symbols)
+	(rectangle
+		(start 25.4 50.8)
+		(end 203.2 152.4)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6cdb007a-d11b-4cfc-8837-1da18fc54bde)
+	)
+	(text_box "U2\nTL074"
+		(exclude_from_sim no)
+		(at 127 63.5 0)
+		(size 25.4 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "11d45238-6994-47b1-bd28-5a213a450044")
+	)
+	(text_box "U10\nTL074"
+		(exclude_from_sim no)
+		(at 63.5 101.6 0)
+		(size 25.4 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a7d74aa1-d956-4392-8e65-7841e8ea2528")
+	)
+	(text_box "U12\nTL074"
+		(exclude_from_sim no)
+		(at 114.3 101.6 0)
+		(size 25.4 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "c5d2abf4-55b3-4bcf-b1dd-878b642c8fba")
+	)
+	(text_box "U1\nTL074"
+		(exclude_from_sim no)
+		(at 165.1 63.5 0)
+		(size 25.4 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "d3106787-cdad-4dfc-b449-b93bd0f588c0")
+	)
+	(text_box "U11\nTL074"
+		(exclude_from_sim no)
+		(at 165.1 101.6 0)
+		(size 25.4 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "e149e470-4d06-472c-8746-bfdaac7532a5")
+	)
+)
