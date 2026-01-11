@@ -21,7 +21,7 @@
 		)
 		(uuid 6cdb007a-d11b-4cfc-8837-1da18fc54bde)
 	)
-	(text_box "U2\nTL074"
+	(text_box "U1\nTL074"
 		(exclude_from_sim no)
 		(at 127 63.5 0)
 		(size 25.4 12.7)
@@ -84,7 +84,7 @@
 		)
 		(uuid "c5d2abf4-55b3-4bcf-b1dd-878b642c8fba")
 	)
-	(text_box "U1\nTL074"
+	(text_box "U2\nTL074"
 		(exclude_from_sim no)
 		(at 165.1 63.5 0)
 		(size 25.4 12.7)
