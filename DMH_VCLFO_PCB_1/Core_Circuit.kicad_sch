@@ -3556,7 +3556,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "2a2cbeca-82c8-47e8-8d46-ee5efc37e69d")
 	)
@@ -3896,7 +3896,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "4f123c70-21cf-41bf-a6a8-b28b4044707b")
 	)
@@ -3942,11 +3942,11 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 87.63) (xy 152.4 87.63)
+			(xy 158.75 95.25) (xy 152.4 95.25)
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "537d4e86-0e8e-47f7-88f3-6ef4277a7b88")
 	)
@@ -4016,7 +4016,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "59518eb0-58d5-4f08-a48d-e9a2bce21550")
 	)
@@ -4156,7 +4156,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "6060d2b6-27c3-460c-9d5a-968efe6299c1")
 	)
@@ -4426,7 +4426,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "7a224fba-3bf8-4994-8782-a93a409f035d")
 	)
@@ -4696,7 +4696,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "8eef8392-9c31-468b-bc05-02649235d35f")
 	)
@@ -4742,11 +4742,11 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 87.63) (xy 152.4 82.55)
+			(xy 152.4 95.25) (xy 152.4 82.55)
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "93393e96-ff39-48dc-bd18-56ba8a28e37e")
 	)
@@ -5146,7 +5146,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type solid)
 		)
 		(uuid "bea8b0c4-1310-48bc-9eaa-44631faf1198")
 	)
@@ -5392,11 +5392,11 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 162.56) (xy 99.06 162.56)
+			(xy 91.44 162.56) (xy 99.06 162.56)
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "d263709c-510e-4e1c-9f92-fa1ae0cb854a")
 	)
@@ -5891,7 +5891,7 @@
 		(uuid "b049625d-e33a-4928-bdf0-55d5e6619134")
 	)
 	(label "Sqr_Raw"
-		(at 158.75 87.63 0)
+		(at 158.75 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5901,7 +5901,7 @@
 		(uuid "bb79fa9f-6ced-4b7a-a8bf-3cfe52270cdb")
 	)
 	(label "Sqr_Raw"
-		(at 96.52 162.56 180)
+		(at 91.44 162.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8024,7 +8024,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "429e3353-fd71-4f20-bba7-27a10a3098d8")
 		(property "Reference" "Q3"
@@ -10649,7 +10649,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8002eedf-209c-44ed-a65a-47e61e985aa1")
 		(property "Reference" "D10"
