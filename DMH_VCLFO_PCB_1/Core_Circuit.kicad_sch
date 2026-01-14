@@ -4156,7 +4156,7 @@
 		)
 		(stroke
 			(width 0)
-			(type dash)
+			(type solid)
 		)
 		(uuid "6060d2b6-27c3-460c-9d5a-968efe6299c1")
 	)
