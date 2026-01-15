@@ -7312,6 +7312,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 50.8 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "928507f4-41ba-4d6e-9e48-cf9b75d5dafb")
 		)
