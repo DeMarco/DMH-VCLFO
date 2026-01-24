@@ -42,6 +42,25 @@
 		)
 		(uuid "11d45238-6994-47b1-bd28-5a213a450044")
 	)
+	(text_box "Tri/Sin"
+		(exclude_from_sim no)
+		(at 66.04 78.74 0)
+		(size 7.62 7.62)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2fd1f2d3-cc32-4c85-92d5-963d6c94f691")
+	)
 	(text_box "U10\nTL074"
 		(exclude_from_sim no)
 		(at 63.5 101.6 0)
@@ -62,6 +81,25 @@
 			)
 		)
 		(uuid "a7d74aa1-d956-4392-8e65-7841e8ea2528")
+	)
+	(text_box "Rng\nf/ff/s"
+		(exclude_from_sim no)
+		(at 78.74 66.04 0)
+		(size 7.62 7.62)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b29546c4-73a3-434f-947f-87556a4eb30a")
 	)
 	(text_box "U12\nTL074"
 		(exclude_from_sim no)
@@ -125,5 +163,43 @@
 			)
 		)
 		(uuid "e149e470-4d06-472c-8746-bfdaac7532a5")
+	)
+	(text_box "Pol"
+		(exclude_from_sim no)
+		(at 78.74 78.74 0)
+		(size 7.62 7.62)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e1e6e526-81e0-4316-bfac-2e401827eb9b")
+	)
+	(text_box "Rnd/Rmp"
+		(exclude_from_sim no)
+		(at 66.04 66.04 0)
+		(size 7.62 7.62)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eebc6d51-bd3c-4ac6-a072-588d3d2f3492")
 	)
 )
