@@ -1,0 +1,723 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
+	(paper "A4")
+	(title_block
+		(rev "1")
+		(company "DMH Instruments")
+		(comment 1 "PCB for 10cm Kosmo format synthesizer module")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 50.8 46.99) (xy 63.5 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01587fc3-fdb3-4d00-8d64-d59fc480b659")
+	)
+	(wire
+		(pts
+			(xy 50.8 31.75) (xy 63.5 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d828ca2-599d-4302-8c24-9e5a53685935")
+	)
+	(wire
+		(pts
+			(xy 50.8 63.5) (xy 63.5 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cc6c495-c17d-4a15-aa03-a81800e0cb65")
+	)
+	(wire
+		(pts
+			(xy 50.8 67.31) (xy 63.5 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e63bff6-a485-46fd-88f7-6a967c4b62a0")
+	)
+	(wire
+		(pts
+			(xy 50.8 39.37) (xy 63.5 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83f996c4-787e-4fba-b311-859ef15f7171")
+	)
+	(wire
+		(pts
+			(xy 50.8 29.21) (xy 63.5 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fb3656f-f10a-4a24-8b53-8b7d73469549")
+	)
+	(wire
+		(pts
+			(xy 50.8 52.07) (xy 63.5 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7492f8b-13b2-4cc8-93a4-261c8c3bac8d")
+	)
+	(wire
+		(pts
+			(xy 50.8 43.18) (xy 63.5 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c48fd650-6ce8-4856-8266-e0a889c70a05")
+	)
+	(wire
+		(pts
+			(xy 50.8 59.69) (xy 63.5 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccb12eed-c532-4cc5-99ab-762008119bea")
+	)
+	(wire
+		(pts
+			(xy 50.8 71.12) (xy 63.5 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d05a2996-fc8a-454e-b47b-41f0a1601de2")
+	)
+	(wire
+		(pts
+			(xy 50.8 55.88) (xy 63.5 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e14f025d-6090-4a3f-98c0-b19fce088e78")
+	)
+	(wire
+		(pts
+			(xy 50.8 34.29) (xy 63.5 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f58bce4e-2d89-4763-84c7-79231e3029ac")
+	)
+	(sheet
+		(at 152.4 165.1)
+		(size 20.32 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
+		(property "Sheetname" "Power"
+			(at 152.4 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 152.4 191.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 25.4)
+		(size 50.8 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
+		(property "Sheetname" "Core Circuit A"
+			(at 63.5 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Core_Circuit.kicad_sch"
+			(at 63.5 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Rmp" output
+			(at 63.5 63.5 180)
+			(uuid "9f578e9c-a3a5-4078-8c2d-b506c3bb27bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Rnd" output
+			(at 63.5 71.12 180)
+			(uuid "e537ca93-f783-452f-a9df-5d09b8b3cf19")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Saw" output
+			(at 63.5 59.69 180)
+			(uuid "82c9dcc3-a483-4731-b658-cf76a40809fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Sin" output
+			(at 63.5 67.31 180)
+			(uuid "78d72192-cd25-46d2-bc74-7d7f06c73110")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Sqr" output
+			(at 63.5 55.88 180)
+			(uuid "26cb35b1-3a72-4962-b11c-37edb4932664")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Tri" output
+			(at 63.5 52.07 180)
+			(uuid "dd15c9fd-0eaf-43e4-8681-3224fb9ad1c6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CV In" input
+			(at 63.5 39.37 180)
+			(uuid "2a0aceb7-fcea-47e2-90f5-70444bd7cd97")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Pot In" input
+			(at 63.5 43.18 180)
+			(uuid "03a8ab19-5e8e-458d-be6f-d6d63dac4625")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Sync In" input
+			(at 63.5 46.99 180)
+			(uuid "0d0d0ab9-c1dc-4a65-91da-9bf7b5b07278")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Rng_Sw_1" input
+			(at 63.5 29.21 180)
+			(uuid "34075393-7290-444c-a05f-b8014473c76f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Rng_Sw_2" output
+			(at 63.5 31.75 180)
+			(uuid "c268f06a-0781-4721-9fde-5f30481a6383")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Rng_Sw_3" input
+			(at 63.5 34.29 180)
+			(uuid "9c011bf2-b22f-4df8-9633-5265c37e5e7d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83432f17-a973-4d8f-9faa-36a692ef3c87")
+		(property "Sheetname" "Sync A"
+			(at 127 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sync_A.kicad_sch"
+			(at 127 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a0ad09e1-7cf3-47f0-af86-7a272714d780")
+		(property "Sheetname" "Random A"
+			(at 165.1 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Random_A.kicad_sch"
+			(at 165.1 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 165.1)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b7535c68-aff0-486d-90c3-e36a997c8490")
+		(property "Sheetname" "Breadboard Layout"
+			(at 25.4 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Breadboard_Layout.kicad_sch"
+			(at 25.4 191.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
+		(property "Sheetname" "Inputs and Outputs A"
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
+			(at 25.4 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Rmp" input
+			(at 50.8 63.5 0)
+			(uuid "87c1a5e1-a87e-42e9-b1c6-4bed0508624c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Rnd" input
+			(at 50.8 71.12 0)
+			(uuid "cd246270-f2ef-44f1-82af-9b9166656d0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Saw" input
+			(at 50.8 59.69 0)
+			(uuid "de8a705f-bbdb-49a3-8404-72632df57f78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Sin" input
+			(at 50.8 67.31 0)
+			(uuid "5ad9a7cd-92d4-40dc-a8b8-4b065d3d67cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Sqr" input
+			(at 50.8 55.88 0)
+			(uuid "7f48deb2-bfdc-4488-9d3e-9328c61a216a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Tri" input
+			(at 50.8 52.07 0)
+			(uuid "ae8d905f-43e3-4212-b760-8bd5cbdd5c9a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV A" output
+			(at 50.8 39.37 0)
+			(uuid "09d43732-ba65-4a73-bc1c-9d10c349c9f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Pot A" output
+			(at 50.8 43.18 0)
+			(uuid "2b91d60e-6844-41e1-badd-84e558a62b69")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Sync A" output
+			(at 50.8 46.99 0)
+			(uuid "16ae86e3-94c0-4752-8962-a37dc5847acd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Rng_Sw_1" output
+			(at 50.8 29.21 0)
+			(uuid "dd36933c-11d6-4760-b769-882ad0759daf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Rng_Sw_2" input
+			(at 50.8 31.75 0)
+			(uuid "89a1113e-77a8-4f5f-a32e-af4ed8a58cc6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Rng_Sw_3" output
+			(at 50.8 34.29 0)
+			(uuid "b02aef9e-62cd-4da8-a1f0-a4bd9b82d2b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 203.2 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf8e79ce-6a78-4d9d-a73c-6d9902e68a5f")
+		(property "Sheetname" "Ramp Shaper A"
+			(at 203.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Ramp_Shaper_A.kicad_sch"
+			(at 203.2 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 25.4)
+		(size 25.4 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da04d89a-146e-4035-9f9a-5a6079a7f9b4")
+		(property "Sheetname" "Sine_Shaper_A"
+			(at 241.3 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sine_Shaper_A.kicad_sch"
+			(at 241.3 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
