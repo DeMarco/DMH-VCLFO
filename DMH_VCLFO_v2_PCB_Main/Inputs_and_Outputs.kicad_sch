@@ -3588,7 +3588,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 137.16) (xy 25.4 139.7)
+			(xy 25.4 140.97) (xy 25.4 143.51)
 		)
 		(stroke
 			(width 0)
@@ -3838,6 +3838,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 120.65) (xy 25.4 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19a168ae-ec01-48fc-a622-7f39de593a53")
+	)
+	(wire
+		(pts
 			(xy 50.8 156.21) (xy 50.8 154.94)
 		)
 		(stroke
@@ -4078,7 +4088,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 114.3) (xy 25.4 116.84)
+			(xy 25.4 110.49) (xy 25.4 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4178,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 120.65) (xy 31.75 120.65)
+			(xy 29.21 127) (xy 31.75 127)
 		)
 		(stroke
 			(width 0)
@@ -4528,7 +4538,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 124.46) (xy 25.4 129.54)
+			(xy 25.4 130.81) (xy 25.4 133.35)
 		)
 		(stroke
 			(width 0)
@@ -5932,7 +5942,7 @@
 	)
 	(global_label "A_Freq_Pot_p2_C"
 		(shape passive)
-		(at 31.75 120.65 0)
+		(at 31.75 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5942,7 +5952,7 @@
 		)
 		(uuid "07932a51-a124-4585-818f-cb124209c869")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.4685 120.65 0)
+			(at 49.4685 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,6 +7748,84 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
+		(at 25.4 116.84 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(dnp no)
+		(uuid "1e02ab22-0a6f-47b9-abd4-c5c47ddc8525")
+		(property "Reference" "R98"
+			(at 22.86 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 22.86 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 24.384 117.094 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 25.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 25.4 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1d30be62-37e3-478c-b7d4-ace667d219f0")
+		)
+		(pin "2"
+			(uuid "2246236b-82c0-4103-adb8-5c1f07ce885c")
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "R98")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
 		(at 125.73 139.7 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8323,72 +8411,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 25.4 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4cd8845a-74de-4894-91e2-f23d2de3ce5b")
-		(property "Reference" "#PWR019"
-			(at 25.4 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 25.4 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 25.4 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "daf11ad1-483e-478b-b397-df0786e09fc1")
-		)
-		(instances
-			(project "DMH_VCLFO_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 43.18 44.45 90)
 		(unit 1)
@@ -8533,7 +8555,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_US")
-		(at 25.4 120.65 0)
+		(at 25.4 127 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8542,7 +8564,7 @@
 		(dnp no)
 		(uuid "53f41e4b-ba23-4483-a635-ddc816e7c238")
 		(property "Reference" "RV1"
-			(at 22.86 119.3799 0)
+			(at 22.86 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8551,7 +8573,7 @@
 			)
 		)
 		(property "Value" "B100k"
-			(at 22.86 121.9199 0)
+			(at 22.86 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8560,7 +8582,7 @@
 			)
 		)
 		(property "Footprint" "SynthStuff:Potentiometer_TT_P110KH1"
-			(at 25.4 120.65 0)
+			(at 25.4 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8569,7 +8591,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 120.65 0)
+			(at 25.4 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8578,7 +8600,7 @@
 			)
 		)
 		(property "Description" "Potentiometer, US symbol"
-			(at 25.4 120.65 0)
+			(at 25.4 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8587,7 +8609,7 @@
 			)
 		)
 		(property "Function" "Freq A"
-			(at 15.748 116.84 0)
+			(at 15.748 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9070,7 +9092,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPDT")
+		(lib_id "SynthStuff:SW_SPDT_OnOffOn")
 		(at 67.31 82.55 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9086,7 +9108,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "SPDT_OnOffOn"
 			(at 67.31 76.2 0)
 			(effects
 				(font
@@ -11322,7 +11344,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 25.4 133.35 0)
+		(at 25.4 137.16 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11331,7 +11353,7 @@
 		(dnp no)
 		(uuid "a62db181-3609-4d4c-854f-ee23a5dc495c")
 		(property "Reference" "R3"
-			(at 22.86 132.0799 0)
+			(at 22.86 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11339,8 +11361,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "270R"
-			(at 22.86 134.6199 0)
+		(property "Value" "10k"
+			(at 22.86 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11349,7 +11371,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 24.384 133.604 90)
+			(at 24.384 137.414 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11358,7 +11380,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 25.4 133.35 0)
+			(at 25.4 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11367,7 +11389,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 25.4 133.35 0)
+			(at 25.4 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11376,7 +11398,7 @@
 			)
 		)
 		(property "Function" ""
-			(at 25.4 133.35 0)
+			(at 25.4 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12376,6 +12398,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:-12V")
+		(at 25.4 143.51 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c21f9afc-d38d-479d-a17e-3bbf4eaa69d3")
+		(property "Reference" "#PWR019"
+			(at 25.4 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 25.4 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"-12V\""
+			(at 25.4 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1234132-8766-4d71-8ba7-35f7734d7abb")
+		)
+		(instances
+			(project "DMH_VCLFO_v2_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
+					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 36.83 212.09 0)
 		(unit 1)
@@ -13364,7 +13452,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 25.4 114.3 0)
+		(at 25.4 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13373,7 +13461,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0e34b30-aaa4-4c4c-b1ac-35d73ca4311d")
 		(property "Reference" "#PWR012"
-			(at 25.4 118.11 0)
+			(at 25.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13382,7 +13470,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 25.4 109.22 0)
+			(at 25.4 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13390,7 +13478,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 25.4 114.3 0)
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13399,7 +13487,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 25.4 114.3 0)
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13408,7 +13496,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 25.4 114.3 0)
+			(at 25.4 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
