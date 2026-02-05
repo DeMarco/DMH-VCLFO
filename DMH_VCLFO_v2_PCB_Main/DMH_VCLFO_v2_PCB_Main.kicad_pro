@@ -713,22 +713,6 @@
       "Core Circuit A"
     ],
     [
-      "83432f17-a973-4d8f-9faa-36a692ef3c87",
-      "Sync A"
-    ],
-    [
-      "a0ad09e1-7cf3-47f0-af86-7a272714d780",
-      "Random A"
-    ],
-    [
-      "cf8e79ce-6a78-4d9d-a73c-6d9902e68a5f",
-      "Ramp Shaper A"
-    ],
-    [
-      "da04d89a-146e-4035-9f9a-5a6079a7f9b4",
-      "Sine_Shaper_A"
-    ],
-    [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
     ],

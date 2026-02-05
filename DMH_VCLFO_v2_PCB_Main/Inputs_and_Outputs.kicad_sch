@@ -2474,6 +2474,24 @@
 					(hide yes)
 				)
 			)
+			(property "Sim.Device" "NPN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=C 2=B 3=E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "NPN Transistor"
 				(at 0 0 0)
 				(effects
@@ -2671,6 +2689,24 @@
 				)
 			)
 			(property "Description" "0.1A Ic, 30V Vce, PNP Small Signal Transistor, TO-92"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Device" "PNP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=C 2=B 3=E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3585,6 +3621,14 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffeb8abc-dd2a-4efd-9f8b-271a2c3350ca")
+	)
+	(no_connect
+		(at 36.83 228.6)
+		(uuid "649fb16d-9018-4836-88c9-5959c4307c83")
+	)
+	(no_connect
+		(at 36.83 196.85)
+		(uuid "c00a530e-6b0f-4cce-b14b-7cbc51420a6e")
 	)
 	(wire
 		(pts
@@ -5896,28 +5940,6 @@
 		)
 		(uuid "dde02e18-5521-47a9-9c41-f069029cb92b")
 	)
-	(global_label "A_Rng_Sw_p2_C"
-		(shape passive)
-		(at 60.96 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "006af26a-2c32-4b33-a045-add6d4392024")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.3906 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "A_CV_M"
 		(shape passive)
 		(at 69.85 46.99 0)
@@ -6094,28 +6116,6 @@
 			)
 		)
 	)
-	(global_label "A_Rng_Sw_p2_C"
-		(shape passive)
-		(at 36.83 196.85 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1ea74c68-8ce7-4fed-8b83-5c4bdffb1c7d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.2606 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "A_Pol_Sw_p2_C"
 		(shape passive)
 		(at 41.91 77.47 0)
@@ -6182,28 +6182,6 @@
 			)
 		)
 	)
-	(global_label "A_Rng_Sw_p2_M"
-		(shape passive)
-		(at 36.83 228.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "28ac39fa-0636-4256-b37e-20627f38312e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.0792 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "A_Tri_C"
 		(shape passive)
 		(at 30.48 158.75 180)
@@ -6261,6 +6239,28 @@
 		(uuid "339edf91-3b39-48f9-ae4a-725f589cebab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 13.6687 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "A_Tri_C"
+		(shape passive)
+		(at 60.96 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37042eff-85d3-4f49-bf6f-ab1f7c2b8e42")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 52.4337 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6512,7 @@
 			)
 		)
 	)
-	(global_label "A_Sync_In_M"
+	(global_label "A_Sync_M"
 		(shape passive)
 		(at 31.75 25.4 0)
 		(fields_autoplaced yes)
@@ -6524,7 +6524,7 @@
 		)
 		(uuid "75fcdbaf-7bf9-41d2-9911-937e3bed73d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.2352 25.4 0)
+			(at 42.5138 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10324,7 +10324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e2e2ee4-e9a1-4d57-b7c7-657f2ee7bf1e")
-		(property "Reference" "J10"
+		(property "Reference" "J200"
 			(at 50.8 255.27 0)
 			(effects
 				(font
@@ -10408,7 +10408,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J10")
+					(reference "J200")
 					(unit 1)
 				)
 			)
@@ -10854,7 +10854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline_Wide"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 53.34 151.765 0)
 			(effects
 				(font
@@ -10876,6 +10876,24 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92"
+			(at 48.26 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "NPN"
+			(at 48.26 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
 			(at 48.26 149.86 0)
 			(effects
 				(font
@@ -12086,7 +12104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline_Wide"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
 			(at 53.34 165.735 0)
 			(effects
 				(font
@@ -12108,6 +12126,24 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 30V Vce, PNP Small Signal Transistor, TO-92"
+			(at 48.26 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "PNP"
+			(at 48.26 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
 			(at 48.26 167.64 0)
 			(effects
 				(font
