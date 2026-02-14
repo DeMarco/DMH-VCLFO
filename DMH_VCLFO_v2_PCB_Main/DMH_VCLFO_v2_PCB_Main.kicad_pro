@@ -519,6 +519,12 @@
       "Net-(D2-K)": [
         "Power"
       ],
+      "Net-(D25-K)": [
+        "Power"
+      ],
+      "Net-(D26-A)": [
+        "Power"
+      ],
       "Net-(D3-A)": [
         "Power"
       ],
@@ -709,16 +715,28 @@
       "Inputs and Outputs A"
     ],
     [
+      "844ad249-4c8a-4e63-9a5b-6fd053ad237e",
+      "Inputs and Outputs B"
+    ],
+    [
+      "0d6a24b8-505e-4a04-8045-d793e4013574",
+      "Inputs and Outputs C"
+    ],
+    [
       "7ad2d702-dfb7-4d49-a82d-34430dd5948f",
-      "Core Circuit A"
+      "SubModule A"
+    ],
+    [
+      "4bb1cd0d-fb31-47f1-80ec-81ed3bdfa89b",
+      "SubModule B"
+    ],
+    [
+      "04e826af-c525-4e37-8080-dde4fc76eca4",
+      "SubModule C"
     ],
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
-    ],
-    [
-      "b7535c68-aff0-486d-90c3-e36a997c8490",
-      "Breadboard Layout"
     ],
     [
       "6a49f44b-305a-4a4e-8bc9-0e327f084006",
