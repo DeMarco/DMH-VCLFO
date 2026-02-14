@@ -3192,6 +3192,50 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 165.1 35.56)
+		(radius 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 785c457f-3613-4d6c-b1d8-fb7237df32ee)
+	)
+	(circle
+		(center 69.85 29.464)
+		(radius 3.81)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d72b62fa-273e-4e59-b60c-bb49df839468)
+	)
+	(text "U12B in BB"
+		(exclude_from_sim no)
+		(at 165.1 30.226 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0344148e-9eba-4c68-b921-06b9d695a397")
+	)
+	(text "U12D in BB"
+		(exclude_from_sim no)
+		(at 69.85 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5991168b-88af-41b3-a2e2-b77ea7af93f4")
+	)
 	(junction
 		(at 53.34 35.56)
 		(diameter 0)
