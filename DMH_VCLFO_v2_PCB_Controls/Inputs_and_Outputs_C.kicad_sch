@@ -3359,8 +3359,8 @@
 		(uuid "1d7af4b8-adb4-46c6-aa3b-0f2cb7aee12d")
 	)
 	(no_connect
-		(at 30.48 25.4)
-		(uuid "c507eba0-0fae-4d08-8a00-dadff65a1063")
+		(at 30.48 30.48)
+		(uuid "8737aa46-312c-4420-bc26-85716770a2e6")
 	)
 	(wire
 		(pts
@@ -3494,6 +3494,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 25.4) (xy 30.48 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "138f95eb-ee06-42f9-8d94-b65638097e10")
+	)
+	(wire
+		(pts
 			(xy 158.75 66.04) (xy 158.75 57.15)
 		)
 		(stroke
@@ -3584,6 +3594,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 45.72) (xy 30.48 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db1085c-ba13-4a5b-a3de-c1c9c63f824c")
+	)
+	(wire
+		(pts
 			(xy 140.97 118.11) (xy 148.59 118.11)
 		)
 		(stroke
@@ -3591,16 +3611,6 @@
 			(type default)
 		)
 		(uuid "211ed071-d802-4af6-b561-ab8d874227af")
-	)
-	(wire
-		(pts
-			(xy 29.21 30.48) (xy 30.48 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21c12d9e-7e1b-44c2-b4d3-3f2c3d83b03d")
 	)
 	(wire
 		(pts
@@ -3744,16 +3754,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 50.8) (xy 81.28 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dafbb6b-4e65-4170-bde6-42e531e25ce0")
-	)
-	(wire
-		(pts
 			(xy 175.26 31.75) (xy 176.53 31.75)
 		)
 		(stroke
@@ -3811,6 +3811,16 @@
 			(type default)
 		)
 		(uuid "41f4a0be-b6d9-4b2f-9255-10c98582d339")
+	)
+	(wire
+		(pts
+			(xy 80.01 45.72) (xy 81.28 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4360b762-9d2e-49c6-a99b-d69a8e259908")
 	)
 	(wire
 		(pts
@@ -4464,6 +4474,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 50.8) (xy 81.28 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1bb50eb-f7ee-4ef0-a984-6501e91ccb25")
+	)
+	(wire
+		(pts
 			(xy 154.94 29.21) (xy 154.94 33.02)
 		)
 		(stroke
@@ -4481,16 +4501,6 @@
 			(type default)
 		)
 		(uuid "c239d530-9c68-483f-b15b-359921b4489a")
-	)
-	(wire
-		(pts
-			(xy 29.21 50.8) (xy 30.48 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3fa0cee-9ea8-468c-800e-73073b33cf52")
 	)
 	(wire
 		(pts
@@ -4694,6 +4704,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 50.8) (xy 30.48 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5ebb4f0-6d08-43ec-9c9f-c5157032d57b")
+	)
+	(wire
+		(pts
 			(xy 160.02 57.15) (xy 158.75 57.15)
 		)
 		(stroke
@@ -4754,16 +4774,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 45.72) (xy 30.48 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea584b28-f804-44ab-868c-ec6c04766501")
-	)
-	(wire
-		(pts
 			(xy 240.03 43.18) (xy 246.38 43.18)
 		)
 		(stroke
@@ -4814,16 +4824,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 45.72) (xy 81.28 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8fd60c2-6ad1-41b1-bd63-eda6a52f01bb")
-	)
-	(wire
-		(pts
 			(xy 33.02 105.41) (xy 34.29 105.41)
 		)
 		(stroke
@@ -4852,7 +4852,7 @@
 		)
 		(uuid "fe7c3c2a-fd6e-4d9e-af61-1b4a1cdc8ce4")
 	)
-	(label "Out A Sin{slash}Tri TN"
+	(label "Out C Sin{slash}Tri TN"
 		(at 218.44 107.95 180)
 		(effects
 			(font
@@ -4862,7 +4862,7 @@
 		)
 		(uuid "092923a6-a683-4961-92ea-fa591a9772a8")
 	)
-	(label "Out A Rmp{slash}Rnd TN"
+	(label "Out C Rmp{slash}Rnd TN"
 		(at 153.67 173.99 0)
 		(effects
 			(font
@@ -4872,7 +4872,7 @@
 		)
 		(uuid "119c451e-4a74-476d-94ef-dfdbb864abe4")
 	)
-	(label "Out A Rmp{slash}Rnd TN"
+	(label "Out C Rmp{slash}Rnd TN"
 		(at 218.44 133.35 180)
 		(effects
 			(font
@@ -4882,7 +4882,7 @@
 		)
 		(uuid "2704fb11-9c98-44a2-a824-0950ffe5d0b2")
 	)
-	(label "Out A Sqr TN"
+	(label "Out C Sqr TN"
 		(at 256.54 133.35 180)
 		(effects
 			(font
@@ -4892,7 +4892,7 @@
 		)
 		(uuid "4fade823-fcc0-435d-8db7-308a2c834002")
 	)
-	(label "Out A Saw TN"
+	(label "Out C Saw TN"
 		(at 256.54 107.95 180)
 		(effects
 			(font
@@ -4902,7 +4902,7 @@
 		)
 		(uuid "5d641c08-4f62-4caf-8b50-9fab0e77299f")
 	)
-	(label "Out A Sqr TN"
+	(label "Out C Sqr TN"
 		(at 153.67 179.07 0)
 		(effects
 			(font
@@ -4912,7 +4912,7 @@
 		)
 		(uuid "63809d09-d33d-4852-88f2-87627f85ccfd")
 	)
-	(label "Out A Sin{slash}Tri TN"
+	(label "Out C Sin{slash}Tri TN"
 		(at 153.67 176.53 0)
 		(effects
 			(font
@@ -4922,7 +4922,7 @@
 		)
 		(uuid "758be4bd-7d6f-4944-93ca-3075e63eae13")
 	)
-	(label "Out A Saw TN"
+	(label "Out C Saw TN"
 		(at 138.43 179.07 180)
 		(effects
 			(font
@@ -4932,7 +4932,7 @@
 		)
 		(uuid "946cb414-3b03-458f-8bd5-f7b40cf4ff2e")
 	)
-	(label "Sync A TN"
+	(label "Sync C TN"
 		(at 148.59 118.11 0)
 		(effects
 			(font
@@ -4942,7 +4942,7 @@
 		)
 		(uuid "9ec8d7e9-ff70-4cf2-9ee0-f0986c29391a")
 	)
-	(label "Sync A TN"
+	(label "Sync C TN"
 		(at 138.43 176.53 180)
 		(effects
 			(font
@@ -5174,7 +5174,7 @@
 	)
 	(global_label "C_Rmp_C"
 		(shape input)
-		(at 29.21 45.72 180)
+		(at 29.21 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5184,7 +5184,7 @@
 		)
 		(uuid "276b9ea8-74c5-45e2-8b54-44384a629ea3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.93 45.72 0)
+			(at 18.93 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5658,7 +5658,7 @@
 	)
 	(global_label "C_Tri_C"
 		(shape input)
-		(at 80.01 50.8 180)
+		(at 80.01 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5668,7 +5668,7 @@
 		)
 		(uuid "841fea33-79b7-4815-a422-3a21724ac84b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.4837 50.8 0)
+			(at 71.4837 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5922,7 +5922,7 @@
 	)
 	(global_label "C_Rnd_C"
 		(shape input)
-		(at 29.21 50.8 180)
+		(at 29.21 45.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5932,7 +5932,7 @@
 		)
 		(uuid "af7cb264-2783-4564-9f4b-dccc0578c342")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.4743 50.8 0)
+			(at 19.4743 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6164,7 +6164,7 @@
 	)
 	(global_label "Bus_CV_C"
 		(shape input)
-		(at 29.21 30.48 180)
+		(at 29.21 25.4 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6174,7 +6174,7 @@
 		)
 		(uuid "e5a3cdff-b479-4947-914b-e8534f942822")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.3252 30.48 0)
+			(at 18.3252 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6274,7 +6274,7 @@
 	)
 	(global_label "C_Sin_C"
 		(shape input)
-		(at 80.01 45.72 180)
+		(at 80.01 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6284,7 +6284,7 @@
 		)
 		(uuid "fbf588eb-43cd-4f9f-ae84-fdd29278af1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.879 45.72 0)
+			(at 70.879 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6339,7 +6339,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08772ce8-05c8-40e5-9618-79229798ae18")
@@ -6427,7 +6427,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10458df1-765e-41d3-adba-4fa348dc600f")
@@ -6495,7 +6495,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13118247-a962-4b69-92af-dd3e070b894f")
@@ -6643,7 +6643,7 @@
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "1c1bca51-4ce2-4821-a67f-b7325fdc350d")
 		(property "Reference" "U3"
@@ -6832,7 +6832,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26e7a6c6-56ea-4edd-a725-38960db041c9")
@@ -6899,7 +6899,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "2809ecb9-20de-4c75-861b-6a0f79968454")
 		(property "Reference" "R36"
@@ -7126,7 +7126,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "386d6dfa-1f16-435b-ba6c-4ee178f45488")
 		(property "Reference" "R40"
@@ -7193,7 +7193,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43a80d3f-b8f6-4955-badc-42671e10390a")
@@ -7365,7 +7365,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a858d42-6821-4d02-83c9-63e55427e746")
@@ -7433,7 +7433,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4df04442-0aa6-4ef0-8bf3-0c0ad52461bb")
@@ -7550,7 +7550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Freq A"
+		(property "Function" "Freq C"
 			(at 15.748 72.39 0)
 			(effects
 				(font
@@ -7587,7 +7587,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "55444671-75d6-403b-b4ae-930a0066c583")
 		(property "Reference" "R51"
@@ -7654,7 +7654,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59342a53-c5b7-4932-bca3-df4f9f505c5b")
@@ -7870,7 +7870,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "6f4659c5-1311-4f8b-b8b8-e15b1494f069")
 		(property "Reference" "R37"
@@ -8013,7 +8013,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "7349b2c9-3bc1-4101-b5cf-55a3af61526b")
 		(property "Reference" "J16"
@@ -8060,7 +8060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out A Saw"
+		(property "Function" "Out C Saw"
 			(at 266.7 119.888 0)
 			(effects
 				(font
@@ -8230,7 +8230,7 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "7d0157a5-e2d7-4ecb-a97a-758bb4e9c5d9")
 		(property "Reference" "U3"
@@ -8341,7 +8341,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fe7b028-aa58-45f4-ba50-ca394d8f25c9")
@@ -8430,7 +8430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 72.39 156.21 0)
 			(effects
 				(font
@@ -8455,6 +8455,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 72.39 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -8496,7 +8504,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "8abf68a2-7545-4f42-8711-0517dbbb7a2a")
 		(property "Reference" "#PWR049"
@@ -8561,7 +8569,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e2e2ee4-e9a1-4d57-b7c7-657f2ee7bf1e")
@@ -8739,7 +8747,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "933fc703-fc82-46b1-8748-36686f70e235")
 		(property "Reference" "J14"
@@ -8786,7 +8794,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Sync A"
+		(property "Function" "Sync C"
 			(at 135.89 126.238 0)
 			(effects
 				(font
@@ -8889,7 +8897,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bdbd51c-e427-437f-ba6a-fe365518c12f")
@@ -9050,7 +9058,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "a26e2d69-d872-43df-8810-777b6707065d")
 		(property "Reference" "J13"
@@ -9097,7 +9105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "CV In A"
+		(property "Function" "CV In C"
 			(at 135.89 88.138 0)
 			(effects
 				(font
@@ -9382,7 +9390,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "b9573b41-31a2-4f36-8cf3-7aa9a2207656")
 		(property "Reference" "U3"
@@ -9495,7 +9503,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "b96531d8-87cf-46ef-bf5d-e4b041afa8e0")
 		(property "Reference" "R35"
@@ -9562,7 +9570,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "ba496881-230b-4c77-aa16-6578032c1633")
 		(property "Reference" "J18"
@@ -9609,7 +9617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out A Sin/Tri"
+		(property "Function" "Out C Sin/Tri"
 			(at 228.6 119.888 0)
 			(effects
 				(font
@@ -9805,7 +9813,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c572dd7f-8711-43cd-9305-1a6898185e47")
 		(property "Reference" "J17"
@@ -9852,7 +9860,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out A Rmp/Rnd"
+		(property "Function" "Out C Rmp/Rnd"
 			(at 228.6 145.288 0)
 			(effects
 				(font
@@ -9909,7 +9917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 41.91 156.21 0)
 			(effects
 				(font
@@ -9934,6 +9942,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 41.91 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "5"
@@ -9975,7 +9991,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c8b849fb-8116-495f-a2b3-01d99d4ffc06")
 		(property "Reference" "J15"
@@ -10022,7 +10038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out A Sqr"
+		(property "Function" "Out C Sqr"
 			(at 266.7 145.288 0)
 			(effects
 				(font
@@ -10057,7 +10073,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9a772f1-e408-456d-9a75-8121bc9734e1")
@@ -10123,7 +10139,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d578b9af-32c7-4b4e-98d0-5c3cf12d670b")
@@ -10257,7 +10273,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da3e8f3a-9fd2-4754-80c2-e951fe29cd0c")
@@ -10473,7 +10489,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1927738-bf01-4b83-adce-835bf2da2fbb")
@@ -10606,7 +10622,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "f227a633-72ea-4a08-ad22-a17dee585ab5")
 		(property "Reference" "R38"
@@ -10722,7 +10738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "CV A Amt"
+		(property "Function" "CV C Amt"
 			(at 55.88 67.31 0)
 			(effects
 				(font
@@ -11045,7 +11061,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "fdc50f50-23d5-42ab-a6c0-504ed513d2d4")
 		(property "Reference" "U3"

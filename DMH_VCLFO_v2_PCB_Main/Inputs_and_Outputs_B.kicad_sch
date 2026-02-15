@@ -6414,16 +6414,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J33")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J28")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J23")
 					(unit 1)
 				)
 			)
@@ -6490,16 +6482,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R42")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R25")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -6564,16 +6548,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR040")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR022")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6654,16 +6630,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "SW11")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "SW7")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -6773,16 +6741,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "U3")
-					(unit 4)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "U2")
-					(unit 4)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "U1")
 					(unit 4)
 				)
 			)
@@ -6859,16 +6819,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R41")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R24")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6933,16 +6885,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR053")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR035")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -7009,16 +6953,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R36")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R19")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -7094,16 +7030,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R43")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R26")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -7184,16 +7112,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "SW9")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "SW5")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -7260,16 +7180,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R40")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R23")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -7356,16 +7268,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J32")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J27")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J22")
 					(unit 1)
 				)
 			)
@@ -7448,16 +7352,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "RV11")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "RV7")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "RV3")
 					(unit 1)
 				)
 			)
@@ -7524,16 +7420,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R39")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R22")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7600,16 +7488,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R44")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R27")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -7693,16 +7573,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "RV10")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "RV6")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "RV2")
 					(unit 1)
 				)
 			)
@@ -7769,16 +7641,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R51")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R34")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -7843,16 +7707,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR054")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR036")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -7919,16 +7775,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R47")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R30")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -8008,16 +7856,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "SW10")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "SW6")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -8094,16 +7934,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R37")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R20")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -8168,16 +8000,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR041")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR023")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -8258,16 +8082,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J16")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J10")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -8332,16 +8148,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR047")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR029")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -8408,16 +8216,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R49")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R32")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -8528,16 +8328,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "U3")
-					(unit 3)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "U2")
-					(unit 3)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "U1")
 					(unit 3)
 				)
 			)
@@ -8602,16 +8394,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR038")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR020")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8699,16 +8483,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J30")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J25")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J20")
 					(unit 1)
 				)
 			)
@@ -8772,16 +8548,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR049")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR031")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -8880,16 +8648,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J31")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J26")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -8965,16 +8725,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R46")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R29")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -9056,16 +8808,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J14")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J8")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -9132,16 +8876,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R50")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R33")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9206,16 +8942,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR037")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR019")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -9308,16 +9036,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "Q5")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "Q3")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -9399,16 +9119,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J13")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J7")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -9485,16 +9197,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R45")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R28")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -9575,16 +9279,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "SW12")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "SW8")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -9672,16 +9368,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "D6")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "D4")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -9793,16 +9481,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "U3")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "U2")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -9869,16 +9549,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R35")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R18")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9959,16 +9631,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J18")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J12")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -10062,16 +9726,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "Q6")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "Q4")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -10136,16 +9792,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR044")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR026")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -10226,16 +9874,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J17")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J11")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -10322,16 +9962,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J29")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J24")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -10412,16 +10044,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "J15")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "J9")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -10486,16 +10110,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR043")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR025")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -10560,16 +10176,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR048")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR030")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10636,16 +10244,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R48")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R31")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10710,16 +10310,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR050")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR032")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -10802,16 +10394,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "RV12")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "RV8")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "RV4")
 					(unit 1)
 				)
 			)
@@ -10876,16 +10460,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR039")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR021")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -10950,16 +10526,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR052")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR034")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11024,16 +10592,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR042")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR024")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -11100,16 +10660,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "R38")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "R21")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11192,16 +10744,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "RV9")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "RV5")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "RV1")
 					(unit 1)
 				)
 			)
@@ -11289,16 +10833,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "D5")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "D3")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -11363,16 +10899,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR046")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR028")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -11437,16 +10965,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR045")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR027")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -11511,16 +11031,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "#PWR051")
-					(unit 1)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "#PWR033")
-					(unit 1)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -11631,16 +11143,8 @@
 		)
 		(instances
 			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0d6a24b8-505e-4a04-8045-d793e4013574"
-					(reference "U3")
-					(unit 2)
-				)
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/844ad249-4c8a-4e63-9a5b-6fd053ad237e"
 					(reference "U2")
-					(unit 2)
-				)
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/ce3fef8b-9f1d-4178-b50b-4a046c030679"
-					(reference "U1")
 					(unit 2)
 				)
 			)
