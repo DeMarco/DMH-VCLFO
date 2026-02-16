@@ -4952,6 +4952,50 @@
 		)
 		(uuid "ab68dc1c-56ac-4ee0-9382-ebe35a30cdaa")
 	)
+	(global_label "C_FRng_Trim_p2_C"
+		(shape passive)
+		(at 36.83 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "01330a31-d77a-4785-8279-c6c2fbf01070")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.6601 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_BusCV_Sw_p2_M"
+		(shape passive)
+		(at 77.47 184.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "044c61c3-3c70-4c92-aac0-658e21d2766e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.4585 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C_Freq_Pot_p2_C"
 		(shape output)
 		(at 30.48 76.2 0)
@@ -4974,53 +5018,9 @@
 			)
 		)
 	)
-	(global_label "C_Sin_C"
-		(shape passive)
-		(at 77.47 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0b27381b-ebab-47b2-a1f7-5a38fedfb2da")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.601 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_Rng_Sw_p1_M"
-		(shape passive)
-		(at 36.83 176.53 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0bac47cc-f960-47e1-a999-4f4d35103963")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.0792 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_VOct_Trim_p12_C"
 		(shape passive)
-		(at 36.83 163.83 180)
+		(at 36.83 166.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5030,34 +5030,12 @@
 		)
 		(uuid "0de842a6-1bf9-4c28-828c-c3b2005b695b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.8738 163.83 0)
+			(at 16.8738 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_BusCV_Sw_p2_C"
-		(shape passive)
-		(at 77.47 163.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0f371d72-8854-4395-b45d-2ae0efeaefcf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.2771 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5075,28 +5053,6 @@
 		(uuid "137d06a1-659e-4b7e-bca5-bd5d5376e491")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 90.2899 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_Sin_Tri_Sw_p2_M"
-		(shape passive)
-		(at 77.47 186.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "142f79ad-290c-4602-b23b-6c6c874da832")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.9423 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5128,9 +5084,9 @@
 			)
 		)
 	)
-	(global_label "C_Rng_Sw_p3_M"
+	(global_label "C_Rng_Sw_p1_M"
 		(shape passive)
-		(at 36.83 179.07 180)
+		(at 36.83 181.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5138,9 +5094,9 @@
 			)
 			(justify right)
 		)
-		(uuid "22bde024-4e7c-4c3d-bce3-5c0a0ac3c8f8")
+		(uuid "18219ac7-597a-4bc9-95e5-abb5475c3cf2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.0792 179.07 0)
+			(at 20.0792 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5282,6 +5238,28 @@
 			)
 		)
 	)
+	(global_label "C_Sin_C"
+		(shape passive)
+		(at 77.47 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "33d9b84f-f21e-4826-b931-dc94d9e6a92b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.601 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C_Tri_C"
 		(shape input)
 		(at 80.01 27.94 180)
@@ -5304,28 +5282,6 @@
 			)
 		)
 	)
-	(global_label "Bus_CV_C"
-		(shape passive)
-		(at 77.47 166.37 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "398e63eb-c1f9-4df6-8d3f-982e18ac34ca")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.3548 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_FRng_Trim_p2_M"
 		(shape input)
 		(at 180.34 54.61 0)
@@ -5339,6 +5295,28 @@
 		(uuid "3c25d8ed-2dbe-44e7-9ca7-aecac284aa27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 199.6913 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Tri_C"
+		(shape passive)
+		(at 77.47 166.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "466aefae-0803-4497-a16b-dd48565c5851")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.9963 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5394,7 +5372,7 @@
 	)
 	(global_label "C_CV_Amt_Pot_p2_C"
 		(shape passive)
-		(at 36.83 156.21 180)
+		(at 36.83 161.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5404,95 +5382,7 @@
 		)
 		(uuid "4c90b5e3-7316-4d01-a8cf-74677929ecc7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3901 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_FRng_Trim_p2_M"
-		(shape passive)
-		(at 36.83 189.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "57335b81-a017-4686-852f-deb51d3e748c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.4787 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_FRng_Trim_p2_C"
-		(shape passive)
-		(at 36.83 161.29 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "58453033-5d0e-464f-9dfa-00f9d480c0be")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.6601 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_CV_Amt_Pot_p2_M"
-		(shape passive)
-		(at 36.83 184.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "654572db-49e9-446a-a0a9-0cc849712188")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.2087 184.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_Freq_Pot_p2_C"
-		(shape passive)
-		(at 36.83 153.67 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "67fcb84f-c131-41dc-baaf-0b88726d6d3f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 19.1115 153.67 0)
+			(at 16.3901 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5512,7 +5402,7 @@
 			)
 			(justify right)
 		)
-		(uuid "6828f908-cd6c-4e8e-8a9b-ff39363f8ca0")
+		(uuid "54576f6c-5c53-4609-9693-6ddeb38de4ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 20.2606 151.13 0)
 			(effects
@@ -5524,9 +5414,53 @@
 			)
 		)
 	)
+	(global_label "C_BusCV_Sw_p2_C"
+		(shape passive)
+		(at 77.47 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "565f1e23-4245-4e11-aebb-e71ef5951452")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.2771 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_CV_Amt_Pot_p2_M"
+		(shape passive)
+		(at 36.83 189.23 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "654572db-49e9-446a-a0a9-0cc849712188")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 16.2087 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C_VOct_Trim_p3_M"
 		(shape passive)
-		(at 36.83 194.31 180)
+		(at 36.83 191.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5536,7 +5470,51 @@
 		)
 		(uuid "6ba7ddc5-fa6a-498e-b65d-6d6d287618de")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.9019 194.31 0)
+			(at 17.9019 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Rng_Sw_p3_M"
+		(shape passive)
+		(at 36.83 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6d159467-2493-4e98-9a94-e644e6bca322")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.0792 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Rng_Sw_p1_C"
+		(shape passive)
+		(at 36.83 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "721c8f01-66a3-478f-8721-b441b9b8d196")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.2606 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5559,28 +5537,6 @@
 		(uuid "75fcdbaf-7bf9-41d2-9911-937e3bed73d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.3538 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_Sin_M"
-		(shape passive)
-		(at 77.47 184.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "76668094-a628-4a11-9313-de355f6e6d99")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.7824 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5678,28 +5634,6 @@
 			)
 		)
 	)
-	(global_label "C_Tri_C"
-		(shape passive)
-		(at 77.47 161.29 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "88960672-0ae7-4e33-9e41-2630350972a6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.9963 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_Sin_Tri_Sw_p2_M"
 		(shape input)
 		(at 215.9 114.3 180)
@@ -5722,46 +5656,24 @@
 			)
 		)
 	)
-	(global_label "C_BusCV_Sw_p2_M"
+	(global_label "C_Freq_Pot_p2_C"
 		(shape passive)
-		(at 77.47 191.77 0)
+		(at 36.83 156.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "9342f094-dc9f-408d-a0e7-c1d666d10934")
+		(uuid "934ebd43-7bb7-4a24-b28f-59839a7f0233")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.4585 191.77 0)
+			(at 19.1115 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "C_Sin_Tri_Sw_p2_C"
-		(shape passive)
-		(at 77.47 158.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "95079f4e-dcb6-4074-baab-aef924ef3751")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.7609 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5823,6 +5735,28 @@
 		(uuid "98729c20-351a-42a0-a641-f58a6b8e5286")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 63.5593 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Bus_CV_C"
+		(shape passive)
+		(at 77.47 158.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b9c1c9f-3bbf-4178-8d6e-1868085812f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.3548 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5898,6 +5832,50 @@
 			)
 		)
 	)
+	(global_label "C_FRng_Trim_p2_M"
+		(shape passive)
+		(at 36.83 176.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a4bd70a7-19a7-494a-b3a4-4613e53d8662")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.4787 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Sin_M"
+		(shape passive)
+		(at 77.47 189.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a548544d-c90a-4ad3-8107-a8908078c5b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.7824 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "C_VOct_Trim_p12_C"
 		(shape input)
 		(at 95.25 135.89 180)
@@ -5916,6 +5894,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Tri_M"
+		(shape passive)
+		(at 77.47 194.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aa9935b4-1691-4fdc-9bbb-a01d1ec605e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 86.1777 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -5942,31 +5942,53 @@
 			)
 		)
 	)
-	(global_label "C_Rng_Sw_p1_C"
+	(global_label "C_Sin_Tri_Sw_p2_C"
 		(shape passive)
-		(at 36.83 148.59 180)
+		(at 77.47 163.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "b417a957-8519-404f-85eb-a3efedc7ec28")
+		(uuid "bc381b99-945e-4bc2-800b-a26768cc5a1e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.2606 148.59 0)
+			(at 96.7609 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "C_Sin_Tri_Sw_p2_M"
+		(shape passive)
+		(at 77.47 191.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc3ba991-bf7d-4875-bf1d-f16cc32a2008")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.9423 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "C_VOct_Trim_p3_C"
 		(shape passive)
-		(at 36.83 166.37 180)
+		(at 36.83 163.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5976,7 +5998,7 @@
 		)
 		(uuid "c61815e8-ab14-45c8-8958-a50dc9a95d30")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.0833 166.37 0)
+			(at 18.0833 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6008,28 +6030,6 @@
 			)
 		)
 	)
-	(global_label "C_Freq_Pot_p2_M"
-		(shape passive)
-		(at 36.83 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c92e7871-cd87-42d0-8dc1-7ea29516784c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 18.9301 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "C_Rmp_Rnd_Sw_p2_M"
 		(shape input)
 		(at 203.2 139.7 180)
@@ -6048,28 +6048,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Bus_CV_M"
-		(shape passive)
-		(at 77.47 194.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "cddec19e-ddd5-48e0-872d-8b1828b7ccf2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.5362 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -6118,31 +6096,31 @@
 			)
 		)
 	)
-	(global_label "C_Tri_M"
+	(global_label "C_Freq_Pot_p2_M"
 		(shape passive)
-		(at 77.47 189.23 0)
+		(at 36.83 184.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "d83ae086-d98a-4501-a29a-9568f418eb9d")
+		(uuid "de98caee-96a7-4775-aa56-24129eb085cf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.1777 189.23 0)
+			(at 18.9301 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "C_VOct_Trim_p12_M"
 		(shape passive)
-		(at 36.83 191.77 180)
+		(at 36.83 194.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6152,7 +6130,7 @@
 		)
 		(uuid "e2a2a48e-b9e3-416b-a75b-91f1f2186d6c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.6924 191.77 0)
+			(at 16.6924 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,6 +6219,28 @@
 		(uuid "f102a64e-570b-4810-bb0d-650195f8ec27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 112.0009 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Bus_CV_M"
+		(shape passive)
+		(at 77.47 186.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f3149715-a829-4273-9704-5297d1fb26da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.5362 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
