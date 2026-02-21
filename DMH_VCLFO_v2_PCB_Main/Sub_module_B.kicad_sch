@@ -7700,6 +7700,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 243.84 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "6703649d-b66c-48ae-b793-3ae7b60dd1fc")
 		)
@@ -9465,7 +9473,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 69.85 95.25 0)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
@@ -9568,7 +9576,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/4bb1cd0d-fb31-47f1-80ec-81ed3bdfa89b"
 					(reference "U22")
-					(unit 1)
+					(unit 4)
 				)
 			)
 		)
@@ -13963,7 +13971,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 69.85 129.54 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
@@ -14067,7 +14075,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/4bb1cd0d-fb31-47f1-80ec-81ed3bdfa89b"
 					(reference "U22")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
@@ -14475,7 +14483,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 360.68 40.64 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
@@ -14579,7 +14587,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/4bb1cd0d-fb31-47f1-80ec-81ed3bdfa89b"
 					(reference "U22")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -17003,7 +17011,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 114.3 116.84 0)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
@@ -17106,7 +17114,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/4bb1cd0d-fb31-47f1-80ec-81ed3bdfa89b"
 					(reference "U22")
-					(unit 2)
+					(unit 3)
 				)
 			)
 		)

@@ -1,0 +1,28 @@
+Drill report for DMH_VCLFO_PANEL.kicad_pcb
+Created on 2026-02-21T19:30:34+0100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DMH_VCLFO_PANEL-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (144 holes)
+    T2  1.000mm  0.0394"  (6 holes)  (with 6 slots)
+    T3  2.400mm  0.0945"  (12 holes)
+    T4  3.200mm  0.1260"  (4 holes)
+    T5  6.400mm  0.2520"  (12 holes)
+
+    Total plated holes count 178
+
+
+Drill file 'DMH_VCLFO_PANEL-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2.500mm  0.0984"  (6 holes)
+    T2  3.100mm  0.1220"  (6 holes)
+
+    Total unplated holes count 12
