@@ -9236,7 +9236,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2921249e-4c62-4657-9cb2-333b34d93bd2")
@@ -10244,7 +10244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 54.3052 66.04 0)
 			(effects
 				(font
@@ -10784,7 +10784,7 @@
 				)
 			)
 		)
-		(property "Value" "MMBFJ113"
+		(property "Value" "J113"
 			(at 113.03 196.85 90)
 			(effects
 				(font
@@ -11396,7 +11396,7 @@
 				)
 			)
 		)
-		(property "Value" "MMBFJ113"
+		(property "Value" "J113"
 			(at 260.35 104.14 90)
 			(effects
 				(font
@@ -12217,7 +12217,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70c163a5-98ad-406c-b907-fb036c56f6bb")
@@ -12734,7 +12734,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "809d9759-2a3f-4c41-ad84-e5f0549a1b53")
@@ -14826,7 +14826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 264.16 149.5552 0)
 			(effects
 				(font
@@ -15169,7 +15169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm"
 			(at 340.36 143.8148 0)
 			(effects
 				(font
@@ -16178,7 +16178,7 @@
 				)
 			)
 		)
-		(property "Value" "MMBFJ113"
+		(property "Value" "J113"
 			(at 88.9 100.33 90)
 			(effects
 				(font
