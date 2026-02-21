@@ -7700,6 +7700,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 243.84 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "6703649d-b66c-48ae-b793-3ae7b60dd1fc")
 		)
@@ -9236,7 +9244,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2921249e-4c62-4657-9cb2-333b34d93bd2")
@@ -9463,7 +9471,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 69.85 95.25 0)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -9566,7 +9574,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U12")
-					(unit 1)
+					(unit 4)
 				)
 			)
 		)
@@ -12217,7 +12225,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70c163a5-98ad-406c-b907-fb036c56f6bb")
@@ -12734,7 +12742,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "809d9759-2a3f-4c41-ad84-e5f0549a1b53")
@@ -13897,7 +13905,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 69.85 129.54 0)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -14001,7 +14009,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U12")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
@@ -14409,7 +14417,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 360.68 40.64 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -14513,7 +14521,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U12")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -15366,7 +15374,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k 3380K"
+		(property "Value" "10k3380"
 			(at 212.09 122.2374 0)
 			(effects
 				(font
@@ -17003,7 +17011,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 114.3 116.84 0)
-		(unit 2)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -17106,7 +17114,7 @@
 			(project "DMH_VCLFO_v2_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U12")
-					(unit 2)
+					(unit 3)
 				)
 			)
 		)
