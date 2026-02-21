@@ -2789,6 +2789,10 @@
 		(uuid "d3ad1a7d-a87a-4beb-a373-db0c759c143b")
 	)
 	(no_connect
+		(at 146.05 182.88)
+		(uuid "e37d5e50-d816-4001-bf09-8abfb5f940fa")
+	)
+	(no_connect
 		(at 31.75 180.34)
 		(uuid "ee24cbe7-3100-4f80-91d1-2927835c9f62")
 	)
@@ -3121,16 +3125,6 @@
 			(type default)
 		)
 		(uuid "4b10dc7a-9a4f-4765-ad9c-1d3a7308777e")
-	)
-	(wire
-		(pts
-			(xy 148.59 185.42) (xy 148.59 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e5928dc-5707-42c0-af8e-50fd367c1bcc")
 	)
 	(wire
 		(pts
@@ -3841,16 +3835,6 @@
 			(type default)
 		)
 		(uuid "fb7616e6-a255-4b6d-8b04-501fb37235e4")
-	)
-	(wire
-		(pts
-			(xy 146.05 182.88) (xy 148.59 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd06fdd5-b70d-4255-92a9-199cb3367e9f")
 	)
 	(wire
 		(pts
@@ -5449,72 +5433,6 @@
 			(project "DMH-Kosmo-10cm-PCB"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "#PWR0219")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 148.59 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59342a53-c5b7-4932-bca3-df4f9f505c5b")
-		(property "Reference" "#PWR018"
-			(at 148.59 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 148.59 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 148.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 148.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f0fa7d75-0ec0-435a-a08c-28c9b8c51dca")
-		)
-		(instances
-			(project "DMH_VCLFO_v2_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)

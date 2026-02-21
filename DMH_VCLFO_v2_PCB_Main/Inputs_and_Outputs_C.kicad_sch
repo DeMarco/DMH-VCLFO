@@ -8869,7 +8869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out C Sin/Tri"
+		(property "Function" "Out C S/T"
 			(at 228.6 119.888 0)
 			(effects
 				(font
@@ -9112,7 +9112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Out C Rmp/Rnd"
+		(property "Function" "Out C R/R"
 			(at 228.6 145.288 0)
 			(effects
 				(font
