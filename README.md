@@ -46,6 +46,10 @@ Depth: 10cm
 
 Final Gerbers available in "Gerbers" folder
 
+## Single VCLFO version
+The KiCad project named "Single Unit" contains the circuit for one VCLFO in a single page schematic without any inter-PCB connectors. This can be useful if anyone is interested in designing their own PCBs or entire modules in non-Kosmo dimensions.
+
+## Font
 For viewing/customizing in KiCad, I recommend downloading and installing the Nulshock font from Typodermic: https://typodermicfonts.com/nulshock/
 
 <img width="651" height="869" alt="image" src="https://github.com/user-attachments/assets/32facd3a-37a1-464e-8c06-8104c2da58b0" />
