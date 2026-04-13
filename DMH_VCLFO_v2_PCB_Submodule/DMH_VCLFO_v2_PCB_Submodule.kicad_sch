@@ -183,49 +183,6 @@
 		)
 	)
 	(sheet
-		(at 25.4 254)
-		(size 38.1 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "6a49f44b-305a-4a4e-8bc9-0e327f084006")
-		(property "Sheetname" "Breadboard Layout v2"
-			(at 25.4 253.2884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Breadboard_Layout.kicad_sch"
-			(at 25.4 279.9846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "DMH_VCLFO_v2_PCB_Submodule"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 63.5 25.4)
 		(size 50.8 50.8)
 		(exclude_from_sim no)
